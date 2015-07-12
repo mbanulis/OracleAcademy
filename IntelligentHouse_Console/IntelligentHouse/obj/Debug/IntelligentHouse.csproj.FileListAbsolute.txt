@@ -1,0 +1,12 @@
+c:\users\alex\documents\visual studio 2013\Projects\IntelligentHouse\IntelligentHouse\bin\Debug\IntelligentHouse.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\IntelligentHouse\IntelligentHouse\obj\Debug\IntelligentHouse.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\IntelligentHouse\IntelligentHouse\bin\Debug\IntelligentHouse.exe
+c:\users\alex\documents\visual studio 2013\Projects\IntelligentHouse\IntelligentHouse\bin\Debug\IntelligentHouse.pdb
+c:\users\alex\documents\visual studio 2013\Projects\IntelligentHouse\IntelligentHouse\obj\Debug\IntelligentHouse.exe
+c:\users\alex\documents\visual studio 2013\Projects\IntelligentHouse\IntelligentHouse\obj\Debug\IntelligentHouse.pdb
+C:\Users\Alex\Documents\OracleAcademy\IntelligentHouse\IntelligentHouse\IntelligentHouse\bin\Debug\IntelligentHouse.exe.config
+C:\Users\Alex\Documents\OracleAcademy\IntelligentHouse\IntelligentHouse\IntelligentHouse\obj\Debug\IntelligentHouse.exe
+C:\Users\Alex\Documents\OracleAcademy\IntelligentHouse\IntelligentHouse\IntelligentHouse\obj\Debug\IntelligentHouse.pdb
+C:\Users\Alex\Documents\OracleAcademy\IntelligentHouse\IntelligentHouse\IntelligentHouse\bin\Debug\IntelligentHouse.exe
+C:\Users\Alex\Documents\OracleAcademy\IntelligentHouse\IntelligentHouse\IntelligentHouse\bin\Debug\IntelligentHouse.pdb
+C:\Users\Alex\Documents\OracleAcademy\IntelligentHouse\IntelligentHouse\IntelligentHouse\obj\Debug\IntelligentHouse.csprojResolveAssemblyReference.cache

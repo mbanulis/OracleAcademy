@@ -1,0 +1,194 @@
+﻿body {
+    background: #FFFFE0;
+    margin:0;
+    padding: 0;
+}
+.image
+{
+    width: 100px;
+    height:100px;
+    margin: 20px;
+
+}
+.error{
+   margin-top: 20px;
+}
+.cells{
+    width: 300px;
+    
+}
+.drops{
+     margin: 5px;
+}
+ul{
+ margin:0;
+    padding: 0;
+}    
+ li{
+     list-style: none;
+     text-align:left;
+ }  
+ a
+ {
+     color: #000;
+     text-decoration:none;
+ }
+ a:hover
+ {
+     text-decoration: none;
+ }
+ h1{
+     font-weight: bold;
+     text-align: center;
+     color:#ffd800;
+    font-size:30px;    
+ }
+ .box{
+     margin-left: 80px;
+     border-radius: 8px;
+     height: 50px;
+     font-family:Aharoni;
+     font-style:oblique;
+     color: white;
+     font-weight: bold;
+     border:1px solid #ffd800;
+     background:#DAA520;
+   
+ }
+ .DisplayItem
+ {
+     width:300px;
+   
+ }
+ .Label{
+     margin-left:50px;
+ }
+ .main
+ {
+     width: 100%;
+     height: 620px;
+     
+     margin:0;
+     
+ }
+ .Panel1{
+     width:300px;
+ }
+ .header{
+     border: solid 2px #ff6a00;
+ 
+     width: 100%;
+     height: 150px;
+    
+ }
+ #house
+ {
+     width:100px;
+     height:100px;
+     margin: 20px 30px;
+    float:left;
+
+   
+ }
+ .images{
+     display:block;
+     float:left;
+ }
+ .container{
+     margin:10px 0 0 10px;
+
+ }
+.m_menu{
+    width:290px;
+    height:100%;
+    border: 2px solid #ff6a00;
+    background:#ff6a00;
+    display:block;
+    float:left;
+}
+.display{
+    float:right;
+    width:700px;
+    height:450px;
+    border:3px solid #ffd800;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-right: 90px;
+    background:#DAA520;
+}
+ ul .container{
+     width: 240px;
+     margin:0 auto;
+     padding:0;
+    
+ }
+ li .menu{
+     width: 240px;
+     padding: 5px 0;
+ }
+ li .button a
+ {
+     width: 200px;
+     height: 34px;
+     display: block;
+     overflow:hidden;
+     position:relative;
+     font-family:'Times New Roman';
+     font-size:25px;
+     padding: 10px 20px 0 20px;
+ }
+ li .button a:hover
+ {
+     text-decoration: none;
+ }
+ li.button a.box1, li.button a.box2, li.button a.box3
+ {
+     background: #18a835;
+     color: #ccc;
+     border: solid 1px #ccc;
+ }
+ li .button1 a
+ {
+width: 200px;
+     height: 34px;
+     display: block;
+     overflow:hidden;
+     position:relative;
+     font-family:'Times New Roman';
+     font-size:25px;
+     padding: 10px 20px 0 20px;
+ }
+ li .button1 a:hover
+ {
+     text-decoration: none;
+ }
+ li.button1 a.box_1, li.button a.box_2
+ {
+     background: #18a835;
+     color: #ccc;
+     border: solid 1px #ccc;
+ }
+ .dropdown{
+     width: 242px;
+     display: none;
+
+
+ }
+ .dropdown1{
+     width: 242px;
+     display: none;
+
+
+ }
+ .dropdown1 li{
+   background: #18a835;
+     border: 1px solid #ccc;
+     margin: 5px 0;
+     padding: 4px 18px;
+ }
+ .dropdown li{
+     background: #18a835;
+     border: 1px solid #ccc;
+     margin: 5px 0;
+     padding: 4px 18px;
+ }

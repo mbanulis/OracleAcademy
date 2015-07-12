@@ -1,0 +1,42 @@
+c:\users\alex\documents\visual studio 2013\Projects\SmartHouse\SmartHouse\bin\SmartHouse.dll.config
+c:\users\alex\documents\visual studio 2013\Projects\SmartHouse\SmartHouse\bin\SmartHouse.dll
+c:\users\alex\documents\visual studio 2013\Projects\SmartHouse\SmartHouse\bin\SmartHouse.pdb
+c:\users\alex\documents\visual studio 2013\Projects\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\SmartHouse\SmartHouse\obj\Debug\SmartHouse.dll
+c:\users\alex\documents\visual studio 2013\Projects\SmartHouse\SmartHouse\obj\Debug\SmartHouse.pdb
+C:\Users\rita\Desktop\SmartHouse\SmartHouse\bin\SmartHouse.dll.config
+C:\Users\rita\Desktop\SmartHouse\SmartHouse\bin\SmartHouse.dll
+C:\Users\rita\Desktop\SmartHouse\SmartHouse\bin\SmartHouse.pdb
+C:\Users\rita\Desktop\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csprojResolveAssemblyReference.cache
+C:\Users\rita\Desktop\SmartHouse\SmartHouse\obj\Debug\SmartHouse.dll
+C:\Users\rita\Desktop\SmartHouse\SmartHouse\obj\Debug\SmartHouse.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\SmartHouse - копия\SmartHouse\bin\SmartHouse.dll.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\SmartHouse - копия\SmartHouse\bin\SmartHouse.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\SmartHouse - копия\SmartHouse\bin\SmartHouse.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.pdb
+C:\Users\rita\Desktop\SmartHouse - копия\SmartHouse\bin\SmartHouse.dll.config
+C:\Users\rita\Desktop\SmartHouse - копия\SmartHouse\bin\SmartHouse.dll
+C:\Users\rita\Desktop\SmartHouse - копия\SmartHouse\bin\SmartHouse.pdb
+C:\Users\rita\Desktop\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.csprojResolveAssemblyReference.cache
+C:\Users\rita\Desktop\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.dll
+C:\Users\rita\Desktop\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.pdb
+G:\SmartHouse - копия\SmartHouse\bin\SmartHouse.dll.config
+G:\SmartHouse - копия\SmartHouse\bin\SmartHouse.dll
+G:\SmartHouse - копия\SmartHouse\bin\SmartHouse.pdb
+G:\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.csprojResolveAssemblyReference.cache
+G:\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.dll
+G:\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.pdb
+C:\Users\Student\Desktop\SmartHouse - копия\SmartHouse\bin\SmartHouse.dll.config
+C:\Users\Student\Desktop\SmartHouse - копия\SmartHouse\bin\SmartHouse.dll
+C:\Users\Student\Desktop\SmartHouse - копия\SmartHouse\bin\SmartHouse.pdb
+C:\Users\Student\Desktop\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.dll
+C:\Users\Student\Desktop\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.pdb
+C:\Users\Alex\Desktop\SmartHouse - копия\SmartHouse\bin\SmartHouse.dll.config
+C:\Users\Alex\Desktop\SmartHouse - копия\SmartHouse\bin\SmartHouse.dll
+C:\Users\Alex\Desktop\SmartHouse - копия\SmartHouse\bin\SmartHouse.pdb
+C:\Users\Alex\Desktop\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.dll
+C:\Users\Alex\Desktop\SmartHouse - копия\SmartHouse\obj\Debug\SmartHouse.pdb

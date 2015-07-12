@@ -1,0 +1,12 @@
+c:\users\alex\documents\visual studio 2013\Projects\Employees\Employees\bin\Debug\Employees.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Employees\Employees\bin\Debug\Employees.exe
+c:\users\alex\documents\visual studio 2013\Projects\Employees\Employees\bin\Debug\Employees.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.exe
+c:\users\alex\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Employees2\Employees\bin\Debug\Employees.exe.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Employees2\Employees\obj\Debug\Employees.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Employees2\Employees\obj\Debug\Employees.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Employees2\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Employees2\Employees\bin\Debug\Employees.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Employees2\Employees\bin\Debug\Employees.pdb
